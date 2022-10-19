@@ -1,4 +1,4 @@
-fn main() {
+pub fn d_types() {
     //integer
     let _z:u32 = 10;
 

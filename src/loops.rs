@@ -1,4 +1,4 @@
-fn main() {
+pub fn lops() {
     let mut _n=0;
     // loop{
 

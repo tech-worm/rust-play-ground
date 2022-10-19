@@ -1,4 +1,4 @@
-fn main() {
+pub fn conditional() {
 
     let mut _n = 4;
 

@@ -1,4 +1,4 @@
-fn main() {
+pub fn stringer() {
 
     let mut _stri = String::new();
     let data="dhafjfsadhfasfakj";

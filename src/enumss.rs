@@ -3,6 +3,6 @@ enum _Colors{
     Blue=2,
     Red=3
 }
-fn main() {
-
+pub fn enums() {
+    println!("this is enum");
 }

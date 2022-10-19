@@ -1,4 +1,4 @@
-fn main() {
+pub fn funcs() {
     prod(35, 32);
 }
 

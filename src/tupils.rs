@@ -1,4 +1,4 @@
-fn main() {
+pub fn tulip() {
 
     let tupil = (5,5.5,"hdgg");
     let (_x, _y, z) = tupil;

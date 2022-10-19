@@ -1,4 +1,4 @@
-fn main() {
+pub fn vecs() {
     let u=vec![1,2,3,4,5];
     println!("{}", u[3]);
 }
