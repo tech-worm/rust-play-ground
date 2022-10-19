@@ -1,4 +1,4 @@
-mod arrays;
+mod structs;
 fn main(){
-    arrays::arrays();
+    structs::structer();
 }
